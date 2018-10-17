@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+    <item android:id="@+id/connect"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Connect Device"
+        android:orderInCategory="100" app:showAsAction="never"/>
+</menu>
+
